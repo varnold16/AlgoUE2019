@@ -1,0 +1,35 @@
+#---- allgemein
+
+# git verzeichnis kopieren
+git clone https://github.com/varnold16/AlgoUE2019.git
+
+# remote verzeichnisse auflisten
+git remote -v
+
+# parent hinzufügen (main_repo beliebig)
+git remote add main_repo https://github.com/fhcw/AlgoUE2019.git
+
+# pull parent
+git pull main_repo master
+
+# welcher branch?
+git branch -v
+
+# branch erstellen
+git checkout -b varnold16#A0
+
+# auf master wechseln
+git checkout master
+
+
+#---- push nach origin
+
+# 1. richtigen branch kontrollieren
+git branch
+# -> master!
+
+# 2. push durchführen
+git push origin master
+
+
+#---- pull request
