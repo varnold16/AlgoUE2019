@@ -1,2 +1,10 @@
 # Aufgabe A0
 ## Make yourself familiar with git and GitHub
+
+Create a GitHub account unless you already have one.
+
+Useful resources:
+* https://guides.github.com
+* [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+* [Distributed Version Control - Git](https://imada.sdu.dk/~jlandersen/_static/git.pdf) by jakob Lykke Andersen
+
