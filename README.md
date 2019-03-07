@@ -38,6 +38,8 @@ subdirectories.
 * Apr-04-2019 A4: Needleman-Wunsch (2 sequences)
 * Apr-12-2019 A5: Needleman-Wunsch (3 sequences)
 
+The last assignment is due on Apr-28-2019, 11:59 PM.
+
 ------------------------
 Potentially useful links
 ------------------------
