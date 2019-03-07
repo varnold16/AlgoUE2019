@@ -11,8 +11,8 @@ accordinglt, i.e. provide at least a __--help__ switch that prints
 simple usage instructions to STDOUT. The file must be named according
 to the following schema:
 
-* $githubusername-fibo_inefficient -n <int> [--all] [--help]
-* $githubusername-fibo_efficient -n <int> [--all] [--help]
+* $githubusername-fibo_inefficient.$suffix -n <int> [--all] [--help]
+* $githubusername-fibo_efficient.$suffix -n <int> [--all] [--help]
 
 Measure the runtime of both tools for different parameters of n,
 e.g. via the `time` command. Plot the runtime of both approaches as a
