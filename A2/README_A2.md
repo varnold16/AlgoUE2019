@@ -17,10 +17,8 @@ Measure the runtime of your tool, ensuring that STDOUT is redirected to a
 file rather than displayed via the console (which would unnecessarily blow
 up runtime). You might employ the concept of subshells to get this done.
 
-Plot the runtime of your program (in seconds) vs size of the Hanoi puzzle, create a PDF graph and name it `$githubusername-TowersOfHanoi_runtime.pdf`.
-
-Your pull request should include the following files:
+Plot the runtime of your program (in seconds) vs size of the Hanoi puzzle and create a PDF graph. Your pull request should include the following files:
 
 * your program
 * A file containing STDOUT of your program up to at least n=25. The name of this file should be `$githubusername-TowersOfHanoi.out`
-* a PDF plot of runtime vs n
+* a PDF plot of runtime vs n named `$githubusername-TowersOfHanoi_runtime.pdf`
