@@ -1,3 +1,11 @@
 A-1
 .idea
 venv
+
+
+# supporting files (bash-scripts, log-files etc)
+*helper*
+*log*
+log*
+*result*
+result*
