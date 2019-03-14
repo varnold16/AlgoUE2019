@@ -1,5 +1,5 @@
 # Aufgabe A3
-## Manhattan Tourist Problem
+## Manhattan Tourist Problem - Part 1
 
 The task is to solve the Manhattan Tourist Problem for given, arbitrary grid weights. Compute the longest path from source (0,0) to sink (N,N) via dynamic programming. In a first step we restrict the grid to horizontal and vertical edges, respectively.
 
