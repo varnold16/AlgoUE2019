@@ -3,7 +3,7 @@
 
 The task is to solve the Manhattan Tourist Problem for given, arbitrary grid weights. Compute the longest path from source (0,0) to sink (N,N) via dynamic programming. In a first step we restrict the grid to horizontal and vertical edges, respectively.
 
-For an N*N grid we have (N-1)\*N horizontal edges and N\*(N-1) vertical edges, respectively. An example input file for a 5*5 grid with horizontal and vertical edges looks like this:
+For an N\*N grid we have (N-1)\*N horizontal edges and N\*(N-1) vertical edges, respectively. An example input file for a 5*5 grid with horizontal and vertical edges looks like this:
 
 ```
 G_down: 4 5
