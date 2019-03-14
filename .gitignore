@@ -9,3 +9,5 @@ venv
 log*
 *result*
 result*
+.idea
+venv
