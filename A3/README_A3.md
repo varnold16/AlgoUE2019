@@ -5,7 +5,8 @@ The task is to solve the Manhattan Tourist Problem for given, arbitrary grid wei
 
 For an N*N grid we have (N-1)\*N horizontal edges and N\*(N-1) vertical edges, respectively. An example input file for a 5*5 grid with horizontal and vertical edges looks like this:
 
-```G_down: 4 5
+```
+G_down: 4 5
   0.12   0.79   0.50   0.56   0.39
   0.93   0.14   0.82   0.80   0.13
   0.71   0.37   0.49   0.94   0.88
@@ -17,7 +18,8 @@ G_right: 5 4
   0.44   0.85   0.74   0.12
   0.56   0.91   0.61   0.24
   0.56   0.42   0.27   0.49
----```
+---
+```
 
 The file consists of two matrices for vertical (G_down) and horizontal (G_right) edges. Each matrix block contains tab-separated floating point values and is closed by three dashes. Beware that the numbers next to the identifiers G_down and G_right might be misleading, i.e., **do not** parse the matrix dimensions from these numbers but compute them on the fly when parsing the matrices.
 
