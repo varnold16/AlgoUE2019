@@ -25,7 +25,7 @@ The file consists of two matrices for vertical (G_down) and horizontal (G_right)
 
 Ensure to check for consistency of the input files. In particular check if you read the correct number of items in every line (implicitly assuming that the dimensions obtained from parsing the first lines of each matrix is correct). A simple check if your tool parses the input as required is to remove the two integers next to G_down and G_right.
 
-Within the *random_matrices* folder you will find a set of randomly generated input files that follow the above specification. For the first part of this exercise choose an input file from the *rmHV_10_X* (dimension 10*10, horizontal,vertical) set as well as one file from the *rmHV_999_X* (dimension 999*999). Ensure with you colleagues that no two persons select the same input files.
+Within the *random_matrices* folder you will find a set of randomly generated input files that follow the above specification. For the first part of this exercise choose an input file from the *rmHV_10_X* (dimension 10\*10, horizontal,vertical) set as well as one file from the *rmHV_999_X* (dimension 999\*999). Ensure with you colleagues that no two persons select the same input files.
 
 ---
 
