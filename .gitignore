@@ -2,12 +2,14 @@ A-1
 .idea
 venv
 
+# files in production
+origin*
+*origin*
 
 # supporting files (bash-scripts, log-files etc)
+helper*
 *helper*
-*log*
 log*
-*result*
+*log*
 result*
-.idea
-venv
+*result*
