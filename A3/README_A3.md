@@ -31,12 +31,16 @@ Within the *random_matrices* folder you will find a set of randomly generated in
 
 Implement a program that a) reads from STDIN a file as specified above and b) computes the weight of the longest path from source to sink. The program should print the computed floating point number to STDOUT. (Recall that this procedure essentially corresponds to the forward recursion of the Needleman-Wunsch algorithm for pairwise global sequence alignment.)
 
-Your program should be named *$githubusername-ManhattanTourist.$suffix* and a example call should look like this:
+Your program should be named *$githubusername-ManhattanTouristHV.$suffix* and an example call should look like this:
 
-*$githubusername-ManhattanTourist.$suffix < rmHV_10_5*
+*$githubusername-ManhattanTouristHV.$suffix < rmHV_10_5*
+
+Keep in mind **not to** provide the dimension of the input matrices to your program at runtime. Your implementation should be able to process input data as specified above in any dimension.
 
 Your pull request should include the following:
 
 * your program (source code)
 * wheight of the longest path for your input files (one for dim 10, and one for dim 999, respectively)
 * let me know which input file you selected (via writing the file name in you ping message, e.g. `@mtw please review rmHV_10_5`)
+
+**Submission due date is 3 April 2019 10:00 CEST**
