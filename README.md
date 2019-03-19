@@ -36,7 +36,8 @@ subdirectories.
 * Mar-14-2019 A2: Towers of Hanoi
 * Mar-19-2019 A3: Manhattan Tourist Problem - Part 1
 * Apr-04-2019 A4: Manhattan Tourist Problem - Part 2
-* Apr-12-2019 A5: Needleman-Wunsch (2 sequences)
+* Apr-08-2019 A5: Needleman-Wunsch (2 sequences)
+* Apr-12-2019 
 
 The last assignment is due on Apr-28-2019, 11:59 PM.
 
