@@ -27,7 +27,8 @@ Ensure to check for consistency of the input files. In particular check if you r
 
 Within the *random_matrices* folder you will find a set of randomly generated input files that follow the above specification. For the first part of this exercise choose an input file from the *rmHV_10_X* (dimension 10\*10, horizontal,vertical) set as well as one file from the *rmHV_999_X* (dimension 999\*999). Ensure with you colleagues that no two persons select the same input files.
 
-**Ensure to remove all files from the random_matrices folder that you do not work on, i.e. only keep two files (one for dim 10\*10, and one for dim 999\*999)**
+Ensure to remove all files from the random_matrices folder that you do not work on, i.e. only keep two files, one for dimension 10\*10, and one for dimension 999\*999.
+
 ---
 
 Implement a program that a) reads from STDIN a file as specified above and b) computes the weight of the longest path from source to sink. The program should print the computed floating point number to STDOUT. (Recall that this procedure essentially corresponds to the forward recursion of the Needleman-Wunsch algorithm for pairwise global sequence alignment.)
