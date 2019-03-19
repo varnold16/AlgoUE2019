@@ -42,3 +42,5 @@ Your pull request should include the following:
 * your program (source code)
 * wheight of the longest path for your input files (one for dim 10, and one for dim 999, respectively)
 * let me know which input file you selected (via writing the file name in you ping message, e.g. `@mtw please review rmHV_10_5`)
+
+**Submission due date is 3 April 2019 10:00 CEST**
