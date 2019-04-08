@@ -44,9 +44,9 @@ NC_035889.1            gagaccccccgg
 
 Importantly, you are supposed to produce a decoration line for your alignment as shown above, i.e. print (below your alignment) a __*__ for matching positions or a gap character for mismatches or indels. Each block in your alignment should not contain more than 60 aligned positions. If your alignment is longer that 60 positions, introduce line wraps as shown above. In addition, print the computed similarity value (result of the forward algorithm) to STDERR as a single integer number.
 
-Your tool should be named *githubusername-NW.$suffix* and an example call should look like this:
+Your tool should be named $githubusername-NW.$suffix$ and an example call should look like this:
 
-*githubusername-NW.$suffix --match <int> --mismatch <int> --gap <int> [--help] < input.fa*
+* $githubusername-NW.$suffix --match <int> --mismatch <int> --gap <int> [--help] < input.fa$
 
 Do not forget to provide a reasonable help message to you users, by adding a **--help** command line option.
 
