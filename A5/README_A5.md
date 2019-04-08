@@ -46,7 +46,7 @@ Importantly, you are supposed to produce a decoration line for your alignment as
 
 Your tool should be named $githubusername-NW.$suffix$ and an example call should look like this:
 
-* $githubusername-NW.$suffix --match __<int>__ --mismatch __<int>__ --gap __<int>__ [--help] < input.fa$
+* $githubusername-NW.$suffix --match __int__ --mismatch __int__ --gap __int__ [--help] < input.fa$
 
 Do not forget to provide a reasonable help message to you users, by adding a **--help** command line option.
 
