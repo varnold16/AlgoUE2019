@@ -54,4 +54,4 @@ Your pull request should include the following:
 
 * your program (source code)
 
-** Submission due date is 28 April 2019, 11:59PM**
+*Submission due date is 28 April 2019, 11:59PM*
